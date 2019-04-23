@@ -9,6 +9,10 @@ ML-Excercise-01-upgraded      Graph upgrade to check different alphas(training r
 Graphs show below the different alpha up to 0,02 with 1800 iterations.
 Alpha 0,03 diverge. 
 
+
+![Screenshot](comparative table.png)
+
+
 #Alpha = 0,001
 
 ![Screenshot](Alpha_0,001_Surface_Plot.png)
