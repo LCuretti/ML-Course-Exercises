@@ -9,7 +9,7 @@ Alpha 0,03 diverge.
 
 #Alpha = 0,001
 
-![Screenshot](Alpha_0,001_Surface_Plot.png) ![Screenshot](Alpha_0,001_Countour_Plot.png)
+![Screenshot](Alpha_0,001_Surface_Plot.png|width=100) ![Screenshot](Alpha_0,001_Countour_Plot.png)
 ![Screenshot](Alpha_0,001_CostJ_2d_Plot.png) ![Screenshot](Alpha_0,001_Function_Plot.png)
 
 
