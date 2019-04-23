@@ -1,10 +1,12 @@
 ML Excercise 1
 
-#ML-Excercise-01.py            original excercise code
-#ML-Excercise-01-optional.py   optional excercises code
-#ML-Excercise-01-upgraded      Graph upgrade to check different alphas(training rate).
+ML-Excercise-01.py            original excercise code
 
-#Graphs show below the different alpha up to 0,02 with 1800 iterations.
+ML-Excercise-01-optional.py   optional excercises code
+
+ML-Excercise-01-upgraded      Graph upgrade to check different alphas(training rate).
+
+Graphs show below the different alpha up to 0,02 with 1800 iterations.
 Alpha 0,03 diverge. 
 
 #Alpha = 0,001
