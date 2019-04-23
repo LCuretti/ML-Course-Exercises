@@ -10,7 +10,7 @@ Graphs show below the different alpha up to 0,02 with 1800 iterations.
 Alpha 0,03 diverge. 
 
 
-![Screenshot](comparative table.png)
+![Screenshot](comparative_table.png)
 
 
 #Alpha = 0,001
