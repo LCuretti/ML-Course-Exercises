@@ -1,4 +1,4 @@
 # Coursera ML-Course-Exercises
-ML Excercises compilation recoded in Python from Matlab
+ML Exercises compilation recoded in Python from Matlab
 
-The idea is to recode all excercises from ML course to get better understanding of it.
+The idea is to recode all exercises from ML course to get better understanding of it.
