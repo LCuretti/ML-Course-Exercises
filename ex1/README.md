@@ -11,8 +11,9 @@ Alpha 0.03 diverge.
 ![Screenshot](comparative_table.png)
 
 
-ML-Exercise-01-optional.py             optional exercises code
 
+
+ML-Exercise-01-optional.py             optional exercises code
 
 ML-Ecercise-01-optional-upgraded.py    Graph upgrade 3D function
 
