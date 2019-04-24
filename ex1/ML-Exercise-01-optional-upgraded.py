@@ -174,7 +174,7 @@ print('Predicted price of a 1650 sq-ft, 3 br house (using gradient descent): {}\
 
 
 #####################################      
-# Denormalization of coefficient to be use with raw data and be able to compare with normal equation.    
+# Denormalization / denormalize of coefficient to be used with raw data and be able to compare with normal equation.    
 #####################################
   
 def coeff_denormalization(theta,mu,sigma):
